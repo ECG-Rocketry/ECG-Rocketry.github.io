@@ -16,3 +16,11 @@ main:
     url: /contact-us/
   - title: "Test"
     url: /test/
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
+
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
