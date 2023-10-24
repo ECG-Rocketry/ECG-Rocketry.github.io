@@ -17,7 +17,7 @@ main:
   - title: "Test"
     url: /test/
   - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+    url: /pages/quick-start-guide/
 
 docs:
   - title: Getting Started

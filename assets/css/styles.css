@@ -1,0 +1,91 @@
+/*Fonts*/
+@font-face {
+    font-family: 'Aquire-BW0ox'; /* Font name to reference */
+    src: url('/assets/fonts/Aquire-BW0ox.otf') format('opentype'); /* Specify the font file path and format */
+    font-weight: normal; /* Font weight */
+    font-style: normal; /* Font style */
+}
+
+/* Style the main sections */
+section {
+    position: relative;
+    margin-top: -3.5%; /* Negative margin to overlap the top of the background image by 10 pixels */
+    margin-right: 2%;
+    margin-left: 2%;
+    z-index: 1; /* Higher value to make it appear on top of the background */
+    background-color: rgba(255, 255, 255, 1); /* Add a background color or transparency */
+    padding: 20px; /* Add padding as needed */
+    border-radius: 10px; /* Add rounded corners */
+    color: #333; /* Text color */
+}
+
+/* Style headings */
+h1 {
+    font-family: 'Aquire-BW0ox', sans-serif;
+    color: white; /* You can specify other styling for this class */
+}
+
+h2 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+}
+
+/* Style buttons */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0078d4;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.btn:hover {
+    background-color: #0058a1;
+}
+
+/* Style partner logos */
+.partner-logos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.partner-logos img {
+    max-width: 100px;
+    margin: 10px;
+}
+
+/* Style statistics */
+.statistics {
+    display: flex;
+    justify-content: space-around;
+}
+
+.stat {
+    text-align: center;
+}
+
+.stat h3 {
+    font-size: 20px;
+    color: #333;
+}
+
+/* Style recent posts list */
+#recent-posts ul {
+    list-style: none;
+}
+
+#recent-posts li {
+    margin-bottom: 10px;
+}
+
+#recent-posts a {
+    text-decoration: none;
+    color: #0078d4;
+}
+
+#recent-posts a:hover {
+    text-decoration: underline;
+}
