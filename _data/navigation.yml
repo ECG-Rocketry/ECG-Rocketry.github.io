@@ -5,7 +5,7 @@ main:
   - title: "Sponsors"
     url: /sponsors/
   - title: "Member Portal"
-    url: /member-portal/
+    url: /member-auth/
   - title: "Projects"
     url: /projects/
   - title: "Challenges"

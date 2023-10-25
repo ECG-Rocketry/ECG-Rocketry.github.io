@@ -33,17 +33,30 @@ h2 {
 
 /* Style buttons */
 .btn {
-    display: inline-block;
+    display: inline-flexbox;
     padding: 10px 20px;
     background-color: #0078d4;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
     margin-right: 10px;
+    align-items: center;
+    justify-content: center;
 }
 
 .btn:hover {
     background-color: #0058a1;
+}
+
+/* Image styles */
+.tint::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Adjust the color and opacity here */
 }
 
 /* Style partner logos */

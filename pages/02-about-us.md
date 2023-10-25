@@ -1,20 +1,11 @@
 ---
-layout: default
-title: "About Us"
+layout: splash
+title: "About ECG Rocketry"
 permalink: /about-us/
 ---
+## About ECG Rocketry 
 
-<div style="position: relative;">
-  <div style="background-image: url('/assets/images/rocket_background.jpg'); background-size: cover; background-position: center; height: 800px;">
-  </div>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; z-index: 1;">
-    <h1>Your Text Goes Here</h1>
-    <p>Additional text or content</p>
-  </div>
-</div>
-
-
-# About ECG Rocketry
+![Rocket Team](/assets/images/rocket_background.jpg)
 
 ## Our Mission
 
@@ -33,5 +24,4 @@ ECG Rocketry is involved in various rocketry projects, ranging from high-powered
 If you share our passion for rocketry and want to be part of an exciting community, consider joining ECG Rocketry. Whether you're an experienced aerospace engineer or a beginner, there's a place for you in our club. Explore our website to find out how to become a member or how to support our initiatives.
 
 **Contact us at [contact@ecgrocketry.com](mailto:contact@ecgrocketry.com) for more information.**
-
 
