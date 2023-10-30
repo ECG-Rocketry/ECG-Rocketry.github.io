@@ -1,0 +1,195 @@
+/* Base Font Imports */
+
+@font-face {
+    font-family: 'Aquire-B';
+    src: url('/assets/fonts/Aquire-B.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aquire-L';
+    src: url('/assets/fonts/Aquire-L.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aquire';
+    src: url('/assets/fonts/Aquire.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Backsteal';
+    src: url('/assets/fonts/Backsteal.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ethnocentric';
+    src: url('/assets/fonts/Ethnocentric.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Glipervelz';
+    src: url('/assets/fonts/Glipervelz.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Linebeam';
+    src: url('/assets/fonts/Linebeam.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nasalization';
+    src: url('/assets/fonts/Nasalization.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Octopus-I';
+    src: url('/assets/fonts/Octopus-I.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Octopus';
+    src: url('/assets/fonts/Octopus.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pavelt';
+    src: url('/assets/fonts/Pavelt.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Plank';
+    src: url('/assets/fonts/Plank.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playpretend';
+    src: url('/assets/fonts/Playpretend.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Starjedi-H';
+    src: url('/assets/fonts/Starjedi-H.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Starjedi';
+    src: url('/assets/fonts/Starjedi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Style the main sections */
+section {
+    position: relative;
+    margin-top: -3.5%; /* Negative margin to overlap the top of the background image by 10 pixels */
+    margin-right: 2%;
+    margin-left: 2%;
+    z-index: 1; /* Higher value to make it appear on top of the background */
+    background-color: rgba(255, 255, 255, 1); /* Add a background color or transparency */
+    padding: 20px; /* Add padding as needed */
+    border-radius: 10px; /* Add rounded corners */
+    color: #333; /* Text color */
+}
+
+/* Style headings */
+h1 {
+    font-family: 'Aquire';
+    color: white; /* You can specify other styling for this class */
+}
+
+h2 {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+    font-family: 'Nasalization';
+}
+
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Style buttons */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0078d4;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.btn:hover {
+    background-color: #0058a1;
+}
+
+/* Style partner logos */
+.partner-logos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.partner-logos img {
+    max-width: 100px;
+    margin: 10px;
+}
+
+/* Style statistics */
+.statistics {
+    display: flex;
+    justify-content: space-around;
+}
+
+.stat {
+    text-align: center;
+}
+
+.stat h3 {
+    font-size: 20px;
+    color: #333;
+}
+
+/* Style recent posts list */
+#recent-posts ul {
+    list-style: none;
+}
+
+#recent-posts li {
+    margin-bottom: 10px;
+}
+
+#recent-posts a {
+    text-decoration: none;
+    color: #0078d4;
+}
+
+#recent-posts a:hover {
+    text-decoration: underline;
+}

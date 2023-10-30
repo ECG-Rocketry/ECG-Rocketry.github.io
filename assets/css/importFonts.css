@@ -1,0 +1,48 @@
+/* variables.css */
+:root {
+    --font-1-family: 'Aquire', sans-serif;
+    --font-path: '/assets/fonts/Aquire.otf';
+
+    --font-2-family: 'Aquire-B', sans-serif;
+    --font-2-path: '/assets/fonts/Aquire-B';
+
+    --font-3-family: 'Aquire-L', sans-serif;
+    --font-3-path: '/assets/fonts/Aquire-L';
+
+    --font-4-family: 'Backsteal', sans-serif;
+    --font-4-path: '/assets/fonts/Backsteal';
+
+    --font-5-family: 'Ethnocentric', sans-serif;
+    --font-5-path: '/assets/fonts/Ethnocentric';
+
+    --font-6-family: 'Glipervelz', sans-serif;
+    --font-6-path: '/assets/fonts/Glipervelz';
+
+    --font-7-family: 'Linebeam', sans-serif;
+    --font-7-path: '/assets/fonts/Linebeam';
+
+    --font-8-family: 'Nasalization', sans-serif;
+    --font-8-path: '/assets/fonts/Nasalization';
+
+    --font-9-family: 'Octopus', sans-serif;
+    --font-9-path: '/assets/fonts/Octopus';
+
+    --font-10-family: 'Octopus-I', sans-serif;
+    --font-10-path: '/assets/fonts/Octopus-I';
+
+    --font-11-family: 'Ravelt', sans-serif;
+    --font-11-path: '/assets/fonts/Revelt';
+
+    --font-12-family: 'Plank', sans-serif;
+    --font-12-path: '/assets/fonts/Plank';
+
+    --font-13-family: 'Playpretend', sans-serif;
+    --font-13-path: '/assets/fonts/Playpretend';
+
+    --font-14-family: 'Starjedi', sans-serif;
+    --font-14-path: '/assets/fonts/Starjedi';
+
+    --font-15-family: 'Starjedi-H', sans-serif;
+    --font-15-path: '/assets/fonts/Starjedi-H';
+  }
+  
