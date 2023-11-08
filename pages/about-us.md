@@ -3,9 +3,14 @@ layout: splash
 title: "About ECG Rocketry"
 permalink: /about-us/
 ---
+
+<head>
+    <link rel="stylesheet" type="text/css" href="/assets/css/styleB.css">
+</head>
+
 ## About ECG Rocketry 
 
-![Rocket Team](/assets/images/rocket_background.jpg)
+![Rocket Team](/assets/images/background7.jpg)
 
 ## Our Mission
 

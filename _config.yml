@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "ECG Rocketry"
 title_separator          : "-"
-subtitle                 : "What the dog doin?"
+subtitle                 : "What the dog doin? not rocketry."
 name                     : # "Your Name"
 description              : "ECG Rocketry: Launching Dreams, One Rocket at a Time!"
 url                      : "https://ecg-rocketry.github.io"

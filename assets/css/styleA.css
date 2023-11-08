@@ -1,4 +1,4 @@
-/* Base Font Imports */
+/* Font imports */
 
 @font-face {
     font-family: 'Aquire-B';
@@ -105,7 +105,7 @@
     font-style: normal;
 }
 
-/* Style the main sections */
+/* Style sections */
 section {
     position: relative;
     margin-top: -3.5%; /* Negative margin to overlap the top of the background image by 10 pixels */
@@ -116,11 +116,13 @@ section {
     padding: 20px; /* Add padding as needed */
     border-radius: 10px; /* Add rounded corners */
     color: #333; /* Text color */
+    text-align: center;
 }
 
 /* Style headings */
 h1 {
     font-family: 'Aquire';
+    font-weight: 100;
     color: white; /* You can specify other styling for this class */
 }
 
@@ -131,6 +133,23 @@ h2 {
     font-family: 'Nasalization';
 }
 
+h3 {
+    font-size: 36px;
+}
+
+h4 {
+    font-size: 36px;
+}
+
+h5 {
+    font-size: 36px;
+}
+
+h6 {
+    font-size: 36px;
+}
+
+/* Style paragraphs */
 p {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -150,14 +169,14 @@ p {
     background-color: #0058a1;
 }
 
-/* Style partner logos */
+/* Style logos */
 .partner-logos {
     display: flex;
     justify-content: space-between;
 }
 
 .partner-logos img {
-    max-width: 100px;
+    max-width: 500px;
     margin: 10px;
 }
 
