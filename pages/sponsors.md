@@ -11,6 +11,6 @@ permalink: /sponsors/
     </div>
     <div class="tint"></div>
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; z-index: 1;">
-        <h1 style="font-family: Ethnocentric, font-weight: 100">ECG Rocketry is inspiring the next generation of rocket enthusiasts. However, we need your support to fuel the passion of our members.</h1>
+        <h1 style="font-family: Nasalization">ECG Rocketry is inspiring the next generation of rocket enthusiasts. However, we need your support to fuel the passion of our members.</h1>
     </div>
 </div>

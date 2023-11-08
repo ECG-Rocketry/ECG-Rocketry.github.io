@@ -18,6 +18,8 @@ main:
     url: /test/
   - title: "Quick-Start Guide"
     url: /pages/quick-start-guide/
+  - title: "Search"
+    url: /search/
 
 docs:
   - title: Getting Started

@@ -152,21 +152,24 @@ h6 {
 /* Style paragraphs */
 p {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 /* Style buttons */
 .btn {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #0078d4;
-    color: #fff;
+    background-color: #2300d461;
+    color: #ffffff;
     text-decoration: none;
     border-radius: 5px;
     margin-right: 10px;
+    font-family: Nasalization;
 }
 
 .btn:hover {
-    background-color: #0058a1;
+    background-color: #312626;
 }
 
 /* Style logos */
@@ -176,8 +179,10 @@ p {
 }
 
 .partner-logos img {
-    max-width: 500px;
-    margin: 10px;
+    max-width: 35%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
 }
 
 /* Style statistics */
