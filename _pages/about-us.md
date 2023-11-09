@@ -11,7 +11,14 @@ permalink: /about-us/
     section {
         position: relative;
         margin-top: 3.5%; /* Negative margin to overlap the top of the background image by 10 pixels */
-        background-color: rgba(20, 255, 235, 1); /* Add a background color or transparency */
+        background-color: rgba(255, 255, 215, 1); /* Add a background color or transparency */
+        margin-left: -5%;
+        margin-right: -5%;
+    }
+
+    h2 {
+        font-family: Aquire;
+        font-size: 48px;
     }
 </style>
 
