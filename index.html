@@ -62,6 +62,15 @@ author_profile: false
             <li><a href="post3.html">Post Title 3</a></li>
             <li><a href="post4.html">Post Title 4</a></li>
         </ul>
+
+        <ul>
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </li>
+            {% endfor %}
+        </ul>
+
     </section>
     
 </body>
