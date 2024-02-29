@@ -10,10 +10,12 @@ permalink: /about-us/
 <style> 
     section {
         position: relative;
-        margin-top: 3.5%; /* Negative margin to overlap the top of the background image by 10 pixels */
-        background-color: rgba(255, 255, 215, 1); /* Add a background color or transparency */
+        margin-top: 0%; /* Negative margin to overlap the top of the background image by 10 pixels */
+        background-color: rgba(255, 255, 255, 1); /* Add a background color or transparency */
         margin-left: -5%;
         margin-right: -5%;
+        border-radius: 0px;
+        padding: 20px; /* Add padding as needed */
     }
 
     h2 {
@@ -43,4 +45,3 @@ ECG Rocketry is involved in various rocketry projects, ranging from high-powered
 If you share our passion for rocketry and want to be part of an exciting community, consider joining ECG Rocketry. Whether you're an experienced aerospace engineer or a beginner, there's a place for you in our club. Explore our website to find out how to become a member or how to support our initiatives.
 
 **Contact us at [contact@ecgrocketry.com](mailto:ecgrocketry@gmail.com) for more information.**
-
